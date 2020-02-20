@@ -1,0 +1,15 @@
+<svg id="Group_8" data-name="Group 8" xmlns="http://www.w3.org/2000/svg" width="100.287" height="121.621" viewBox="0 0 100.287 121.621">
+  <g id="Group_6" data-name="Group 6" transform="translate(21.636 22.58)">
+    <path id="Path_7" data-name="Path 7" d="M105.5,79.258A28.508,28.508,0,1,0,51.8,92.6h-.021l.42.728c.062.112.125.221.191.329l.112.191c.112.191,11.174,19.514,11.174,34.1v.832H90.31v-.832c0-14.583,11.062-33.906,11.174-34.1l.087-.154c.1-.162.187-.325.283-.487l.35-.6h-.017A28.614,28.614,0,0,0,105.5,79.258Z" transform="translate(-48.48 -50.75)" fill="#afb5bc"/>
+    <path id="Path_8" data-name="Path 8" d="M110.945,247.648a3.661,3.661,0,0,0-3.658-3.658H84.638a3.655,3.655,0,0,0-2.318,6.484,3.649,3.649,0,0,0,0,5.652,3.655,3.655,0,0,0,2.318,6.484h22.648a3.655,3.655,0,0,0,2.318-6.484,3.649,3.649,0,0,0,0-5.652A3.649,3.649,0,0,0,110.945,247.648Z" transform="translate(-67.454 -163.569)" fill="#afb5bc"/>
+  </g>
+  <g id="Group_7" data-name="Group 7" transform="translate(2.5 2.5)">
+    <line id="Line_8" data-name="Line 8" y1="13.047" transform="translate(47.644)" fill="none" stroke="#afb5bc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_9" data-name="Line 9" x1="13.047" transform="translate(0 48.63)" fill="none" stroke="#afb5bc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_10" data-name="Line 10" x1="13.047" transform="translate(82.24 48.63)" fill="none" stroke="#afb5bc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_11" data-name="Line 11" x1="9.227" y1="9.227" transform="translate(13.954 14.941)" fill="none" stroke="#afb5bc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_12" data-name="Line 12" x1="9.227" y1="9.227" transform="translate(72.106 73.093)" fill="none" stroke="#afb5bc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_13" data-name="Line 13" y1="9.227" x2="9.227" transform="translate(72.106 14.941)" fill="none" stroke="#afb5bc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_14" data-name="Line 14" y1="9.227" x2="9.227" transform="translate(13.954 73.093)" fill="none" stroke="#afb5bc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+</svg>
