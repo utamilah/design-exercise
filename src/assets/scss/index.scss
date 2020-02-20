@@ -210,7 +210,7 @@ main {
             position: absolute;
             right: 0;
           }
-          svg {
+          .settings {
             height: 1.25rem;
           }
         }
@@ -223,8 +223,15 @@ main {
         position: absolute;
       }
     }
-    svg {
+    .settings {
       height: 2rem;
+      path {
+        fill: $primary;
+      }
+    }
+    .verified {
+      display: inline;
+      height: 1.25rem;
       path {
         fill: $primary;
       }
