@@ -161,6 +161,20 @@ main {
       }
     }
   }
+  .promo-copy {
+    font-size: 13px;
+    &:before {
+      content: '';
+      background: url('/src/assets/img/lightbulbicon.svg') no-repeat;
+      background-size: contain;
+      background-position: top;
+      float: left;
+      height: 20px;
+      width: 25px;
+      margin-right: 2px;
+      transform: translateY(-5px);
+    }
+  }
 }
 
 .info-sidebar {
@@ -202,7 +216,7 @@ main {
         }
       }
     }
-    &:nth-child(3) {
+    &:nth-child(2) {
       background: rgb(230, 236, 240);
       h2 {
         display: inline-block;
@@ -229,3 +243,5 @@ main {
     transform: translateY(-100%);
   }
 }
+
+
