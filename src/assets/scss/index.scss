@@ -181,6 +181,18 @@ main {
   float: right;
 }
 
+.engagement-ratio {
+  float: right;
+  padding: 0;
+
+  svg .st0 {
+    fill: #E6ECF0;
+  }
+  svg .st1 {
+    fill: $primary;
+  }
+}
+
 .info-sidebar {
   form {
     position: fixed;
